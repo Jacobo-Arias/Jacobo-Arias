@@ -1,4 +1,4 @@
-# Borrados:
+# Borrador:
 
 - In progress
 
