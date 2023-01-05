@@ -1,7 +1,6 @@
 # Borrador:
-
-- In progress
-
+[![](https://img.shields.io/badge/Torre.co-Jacobo--Arias-yellowgreen)](https://torre.co/jacoboa12) 
+[![](https://img.shields.io/badge/LindeIn-Jacobo%20Arias%20Ramirez-blue)](https://www.linkedin.com/in/jacobo-arias-ramirez-50b5b2193/)
 - 👋 Hi, I’m @Jacobo-Arias
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
