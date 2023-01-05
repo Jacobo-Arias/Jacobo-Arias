@@ -6,12 +6,19 @@
 - @Jacobo-Arias: Developer in love with python 🐍
 ```python
 worked = {
-    "backend": ["python","php"],
+    "backend": ["python", "php"],
     "frontend": ["bootstrap"],
     "arquitecture": {
-        "aws": ["lambda", "ec2 instances", "rds", "efs", "ec2 auto scaling group/load balancer","s3"]
+        "aws": [
+            "lambda", 
+            "ec2 instances", 
+            "rds", 
+            "efs", 
+            "ec2 auto scaling group/load balancer",
+            "s3"
+        ]
     }
-    "database": ["PostgreSQL","mySQL"],
+    "database": ["PostgreSQL", "mySQL", "MongoDB"],
     "testing_web": ["selenium"]
 }
 ```
