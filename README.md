@@ -11,7 +11,8 @@ worked = {
     "arquitecture": {
         "aws": ["lambda", "ec2 instances", "rds", "efs", "ec2 auto scaling group/load balancer","s3"]
     }
-    "database": ["PostgreSQL","mySQL"]
+    "database": ["PostgreSQL","mySQL"],
+    "testing_web": ["selenium"]
 }
 ```
 ---
