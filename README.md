@@ -1,7 +1,7 @@
 # Welcome to my profile:
 ---
-[![](https://img.shields.io/badge/Torre.co-Jacobo--Arias-yellowgreen)](https://torre.co/jacoboa12) 
-[![](https://img.shields.io/badge/LindeIn-Jacobo%20Arias%20Ramirez-blue)](https://www.linkedin.com/in/jacobo-arias-ramirez-50b5b2193/)
+[![](https://img.shields.io/badge/torre.co-Jacobo--Arias-yellowgreen)](https://torre.co/jacoboa12) 
+[![](https://img.shields.io/badge/LinkeIn-Jacobo%20Arias%20Ramirez-blue)](https://www.linkedin.com/in/jacobo-arias-ramirez-50b5b2193/)
 
 - @Jacobo-Arias: Developer in love with python 🐍
 ```python
