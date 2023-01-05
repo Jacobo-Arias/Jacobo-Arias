@@ -14,8 +14,6 @@ worked = {
     "database": ["PostgreSQL","mySQL"]
 }
 ```
-
+---
+## github stats ⭐
 ![Jacobo-Arias github stats](https://github-readme-stats.vercel.app/api?username=Jacobo-Arias&show_icons=true&theme=algolia&count_private=true)
-<--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobo-Arias)
--->
